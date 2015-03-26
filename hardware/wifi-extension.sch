@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Di 11 Sep 2012 11:19:52 CEST
+EESchema Schematic File Version 2  date Mo 14 Jan 2013 14:06:04 CET
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -30,13 +30,14 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:tinkerforge
-EELAYER 25  0
+LIBS:wifi-extension-cache
+EELAYER 27 0
 EELAYER END
-$Descr A4 11700 8267
+$Descr A4 11693 8268
 encoding utf-8
 Sheet 1 2
 Title "Wifi Extension"
-Date "8 aug 2012"
+Date "14 jan 2013"
 Rev "1.0"
 Comp "Tinkerforge GmbH"
 Comment1 "Licensed under CERN OHL v.1.1"
